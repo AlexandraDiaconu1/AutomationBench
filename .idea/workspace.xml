@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59387cf3-68a4-40ba-90a5-e8fd23b956c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TypesExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Type.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TypesExpressions">
+  <component name="RunManager" selected="Application.Type">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example" />
       <module name="AutomationBench" />
@@ -50,15 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings" />
+    <configuration name="Type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Type" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Type" />
         <item itemvalue="Application.TypesExpressions" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
