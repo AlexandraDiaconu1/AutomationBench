@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59387cf3-68a4-40ba-90a5-e8fd23b956c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Operators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +42,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TypeCasting">
+  <component name="RunManager" selected="Application.Operators">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="AutomationBench" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
-      <module name="AutomationBench" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operators" />
         <item itemvalue="Application.TypeCasting" />
         <item itemvalue="Application.TypesExpressions" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
