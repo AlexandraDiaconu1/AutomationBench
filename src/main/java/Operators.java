@@ -23,22 +23,19 @@ public class Operators {
         x = 3;
         y = x++ - ++x;
         System.out.printf("x++ - ++x gives: x is %s and y is %s.%n", x, y);
-    }
 
-
-
-      /*  int x = 3;
-//        int y = x++;
-        int y = x;
-        x++;
-        System.out.printf("Using x++, x is %s and y is %s.%n", x, y);
+        int g = 3;
+        int s = g++;
+        int h = g;
+      //  g++;
+        System.out.printf("Using g++, g is %s and s is %s.%n", g, s);
         // Using x++, x is 4 and y is 3.
 
-        x = 3;
-//        y = ++x;
-        x++;
-        y = x;
-        System.out.printf("Using ++x, x is %s and y is %s.%n", x, y);
+        g = 3;
+        s = ++x;
+        g++;
+        g = s;
+        System.out.printf("Using ++g, g is %s and s is %s.%n", g, s);
         // Using ++x, x is 4 and y is 4.
 
         System.out.println("Don't do this!");
@@ -60,7 +57,7 @@ public class Operators {
         // x++ - ++x gives: x is 5 and y is -2*/
 
 
-/*
+
         double a = 12 * 3 / 4;
         double b = (12 * 3) / 4;
         double c = 12 * (3 / 4);
@@ -73,13 +70,11 @@ public class Operators {
         System.out.printf("%s %s %s %n", d, e, f);
         System.out.println();
 
-        int x = 12 + 3 * 4;
-        int y = (12 + 3) * 4;
-        int z = 12 + (3 * 4);
-        System.out.printf("%s %s %s %n", x, y, z);/*
-
-/*      for (int month = 1; month <= 12; month ++) {
-        System.out.printf("The next month after %s is %s%n", month, month % 12 + 1);*/
+        int r = 12 + 3 * 4;
+        int q = (12 + 3) * 4;
+        int l = 12 + (3 * 4);
+        System.out.printf("%s %s %s %n", r, q, l);
 
     }
+}
 

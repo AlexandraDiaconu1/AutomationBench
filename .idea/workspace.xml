@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59387cf3-68a4-40ba-90a5-e8fd23b956c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringExercices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +43,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operators">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example" />
+  <component name="RunManager" selected="Application.StringExercices">
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators" />
+    <configuration name="StringExercices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExercices" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringExercices" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.TypeCasting" />
         <item itemvalue="Application.TypesExpressions" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
