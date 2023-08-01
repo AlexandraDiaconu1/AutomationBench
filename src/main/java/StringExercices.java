@@ -1,7 +1,4 @@
 public class StringExercices {
-    public static String helloName(String name) {
-        return "Hello " + name + "!";
-    }
 
     public static void main(String[] args) {
         System.out.println(helloName("Bob"));    // Output: "Hello Bob!"
@@ -72,6 +69,10 @@ public class StringExercices {
 
     }
 
+
+    public static String helloName(String name) {
+        return "Hello " + name + "!";
+    }
 
     /*
     Given a string, return a new string made of 3 copies of the last 2 chars of the original string. The string length will be at least 2.
