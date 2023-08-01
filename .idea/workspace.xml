@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59387cf3-68a4-40ba-90a5-e8fd23b956c0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringExercices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringExercices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.StringExercices">
     <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators" />
       <module name="AutomationBench" />
@@ -85,10 +84,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringExercices" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.TypesExpressions" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.StringExercices" />
         <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
