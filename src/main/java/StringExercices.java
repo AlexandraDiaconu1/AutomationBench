@@ -62,6 +62,14 @@ public class StringExercices {
         System.out.println(nTwince("Chocolate",1));
 
 
+        System.out.println(hasBad("badxx"));
+        System.out.println(hasBad("xbadxx"));
+        System.out.println(hasBad("xxbadxx"));
+
+        System.out.println(makeAbba("Hi","Bye"));
+        System.out.println(makeAbba("Yo","Alice"));
+
+
     }
 
 
@@ -220,6 +228,23 @@ public class StringExercices {
         String lastNChars = str.substring(str.length() - n);
 
         return firstNChars +lastNChars;
+    }
+
+    //hasBad
+    public static boolean hasBad(String str) {
+        // Check if the string starts with "bad"
+        boolean startsWithBad = str.startsWith("bad");
+
+        // Check if the string is at least 4 characters long and the substring from index 1 to 3 is "bad"
+        boolean hasBadAtIndex1 = str.length() > 3 && str.substring(1, 4).equals("bad");
+
+        // Return true if "bad" appears starting at index 0 or index 1
+        return startsWithBad || hasBadAtIndex1;
+    }
+
+    public static String makeAbba(String a, String b){
+
+        return a + b + b + a;
     }
 }
 

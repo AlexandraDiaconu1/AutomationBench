@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="02" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2SsgebgkO4KgPVU9v6ES9DhDvcB" />
@@ -42,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringExercices">
+  <component name="RunManager" selected="Application.Variables">
     <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators" />
       <module name="AutomationBench" />
@@ -64,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeCasting" />
-      <module name="AutomationBench" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TypesExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TypesExpressions" />
       <module name="AutomationBench" />
@@ -78,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="AutomationBench" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringExercices" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.Variables" />
         <item itemvalue="Application.TypesExpressions" />
         <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.StringExercices" />
+        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
