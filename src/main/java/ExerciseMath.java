@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class ExercicesMath {
+public class ExerciseMath {
 
 
     private static final int ROCK = 0;
