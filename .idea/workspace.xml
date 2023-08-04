@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59387cf3-68a4-40ba-90a5-e8fd23b956c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciseSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logical2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExercicesMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExerciseMath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExerciseSwitch">
+  <component name="RunManager" selected="Application.Logical2">
     <configuration name="ExerciseMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseMath" />
       <module name="AutomationBench" />
@@ -63,15 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExercices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringExercices" />
+    <configuration name="Logical2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Logical2" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypesExpressions" />
+    <configuration name="StringExercices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringExercices" />
       <module name="AutomationBench" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Logical2" />
         <item itemvalue="Application.ExerciseSwitch" />
         <item itemvalue="Application.ExerciseMath" />
         <item itemvalue="Application.StringExercices" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.TypesExpressions" />
       </list>
     </recent_temporary>
   </component>
