@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59387cf3-68a4-40ba-90a5-e8fd23b956c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Logical2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Logical2">
+  <component name="RunManager" selected="Application.ArrayExercise">
+    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExercise" />
+      <module name="AutomationBench" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseMath" />
       <module name="AutomationBench" />
@@ -76,20 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
-      <module name="AutomationBench" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayExercise" />
         <item itemvalue="Application.Logical2" />
         <item itemvalue="Application.ExerciseSwitch" />
         <item itemvalue="Application.ExerciseMath" />
         <item itemvalue="Application.StringExercices" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
