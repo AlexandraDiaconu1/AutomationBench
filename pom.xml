@@ -13,4 +13,20 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <dependencies>
+
+        <dependency>
+        <groupId>org.jline</groupId>
+        <artifactId>jline</artifactId>
+        <version>3.9.0</version>
+        </dependency>
+
+
+<dependency>
+        <groupId>org.fusesource.jansi</groupId>
+        <artifactId>jansi</artifactId>
+        <version>1.17.1</version>
+        </dependency>
+    </dependencies>
+
 </project>
